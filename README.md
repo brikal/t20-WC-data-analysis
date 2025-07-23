@@ -1,2 +1,1 @@
-# t20-WC-data-analysis
-Built an end-to-end cricket analytics pipeline using Python, Bright Data, Pandas, and Power BI to derive player selection insights from real match stats.
+#An advanced sports analytics pipeline built using Python, Pandas, and Power BI, leveraging web scraping and data modeling to generate selection insights from real-world match data.
